@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">I'm a Mobile App Engineer focused on helping startups and businesses turn ideas into production-ready mobile applications.
-<br>
+<p align="left">I'm a Mobile App Developer focused on helping startups and businesses turn ideas into <b>production-ready mobile applications</b>.
+<br><br>
 My primary expertise is React Native, and I'm currently building my skills in AI integrations, Supabase, and modern backend technologies to deliver complete mobile products.
-<br>
+<br><br>
 I enjoy building software that solves real problems, writing clean and maintainable code, and continuously learning technologies that create the highest value for users and businesses.</p>
 
 <h2 align="left">Current focus</h2>
 
 ###
 
-<p align="left">Current focus</p>
+<p align="left">React Native + AI</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Techstack</h2>
 
 ###
 
@@ -27,26 +27,32 @@ I enjoy building software that solves real problems, writing clean and maintaina
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/expo/default.svg" width="40" alt="expo logo" />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.svg" width="40" alt="supabase logo" />
+  <!-- <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.svg" width="40" alt="supabase logo" /> -->
+  <img src="https://supabase.com/_next/image?url=%2Fimages%2Fsupabase-logo-dark.svg&w=256&q=75" width="40" alt="supabase logo dark" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/expo/default.svg" width="40" alt="expo logo" /> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Expo_Logo_white.svg" width="40" alt="expo logo white" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="github logo"  />
 </div>
 
 ###
 
 <h2 align="left">Featured Projects</h2>
+
 ###
+
 <a align="left" href='https://worldwidetrack.netlify.app'>Worldwise/</a>
 
 <h2 align="left">Contact links</h2>
+
 ###
-<a align="left" href='mailto:chinmayg.dev@gmail.com'>chinmayg.dev@gmail.com/</a>
+
+<a align="left" href='mailto:chinmayg.dev@gmail.com'>chinmayg.dev@gmail.com/</a> <br>
 <a align="left" href='https://www.linkedin.com/in/chinmay-gowda-s-079b22363/'>LinkedIn/</a>
 
 ###

@@ -44,13 +44,13 @@ I enjoy building software that solves real problems, writing clean and maintaina
 
 ###
 
-<a align="left" href='https://worldwidetrack.netlify.app'>Worldwise/</a>
+<a align="left" href='https://worldwidetrack.netlify.app' style={{color: 'white'}}>Worldwise</a>
 
 <h2 align="left">Contact links</h2>
 
 ###
 
-<a align="left" href='mailto:chinmayg.dev@gmail.com'>chinmayg.dev@gmail.com/</a> <br>
+<a align="left" href='mailto:chinmayg.dev@gmail.com'>chinmayg.dev@gmail.com</a> <br>
 <a align="left" href='https://www.linkedin.com/in/chinmay-gowda-s-079b22363/'>LinkedIn/</a>
 
 ###

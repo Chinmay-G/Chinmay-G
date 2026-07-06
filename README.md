@@ -44,7 +44,9 @@ I enjoy building software that solves real problems, writing clean and maintaina
 
 ###
 
-<a align="left" href='https://worldwidetrack.netlify.app' style={{color: 'white'}}>Worldwise</a>
+<b align="left">Worldwise</b> -
+<a align="left" href='https://worldwidetrack.netlify.app'>Live</a>
+<a align="left" href='https://github.com/Chinmay-G/worldwise'>GitHub</a>
 
 <h2 align="left">Contact links</h2>
 
